@@ -8,7 +8,7 @@ Contate-me no [LinkedIn](https://www.linkedin.com/in/alex-junior-7944323b/)
       <img src="https://github-readme-stats.vercel.app/api?username=silvaAlex&show_icons=true" alt="silvaAlex's stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=silvaAlex&layout=compact&" alt="silvaAlex's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaAlex&layout=compact" alt="silvaAlex's stats" />
   </p>
 </div>
 
