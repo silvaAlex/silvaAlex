@@ -17,9 +17,9 @@ Contate-me no [LinkedIn](https://www.linkedin.com/in/alex-junior-7944323b/)
 ### 🔧 &nbsp; Tecnologias e Ferramentas...
 
 <p align="center">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/tools/vs_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/dev/tools/vs_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
