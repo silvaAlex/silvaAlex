@@ -17,6 +17,7 @@ Contate-me no [LinkedIn](https://www.linkedin.com/in/alex-junior-7944323b/)
 ### 🔧 &nbsp; Tecnologias e Ferramentas...
 
 <p align="center">
+  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/languages/csharp_dotnet.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
