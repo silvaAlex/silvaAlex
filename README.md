@@ -3,20 +3,23 @@
 Contate-me no [LinkedIn](https://www.linkedin.com/in/alex-junior-7944323b/)
 
 <!-- GitHub Stats -->
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=silvaAlex&show_icons=true" alt="Quadrified's stats" />
-</a>
-<a>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=silvaAlex&layout=compact&" alt="Quadrified's stats" />
-</a>
+<div align="center">
+  <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=silvaAlex&show_icons=true" alt="sivaAlex's stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=silvaAlex&layout=compact&" alt="sivaAlex's stats" />
+  </p>
+</div>
 
 <!-- Technologies & Tools -->
+
 ### 🔧 &nbsp; Tecnologias e Ferramentas...
 
 <p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/language-javascript-yellow.svg">
-  <img alt="C#" src="https://img.shields.io/badge/language-csharp-green.svg">
-  <img alt="Java" src="https://img.shields.io/badge/language-java-red.svg">
-  <img alt="HTML5" src="https://img.shields.io/badge/language-html-orange.svg">
-  <img alt="React" src="https://img.shields.io/badge/framework-react-blue.svg">
+  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sivaAlex/sivaAlex/blob/master/assets/svg/dev/tools/vs_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
