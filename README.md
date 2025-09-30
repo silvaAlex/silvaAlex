@@ -29,4 +29,4 @@
 
 ---
 
-> ### 💬 Vamos conversar? Me chama no [LinkedIn](www.linkedin.com/in/alexjr-silva) ou confira meus repositórios aqui no GitHub!
+> ### 💬 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/alexjr-silva) ou confira meus repositórios aqui no GitHub!
