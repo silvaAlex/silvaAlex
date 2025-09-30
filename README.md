@@ -1,26 +1,67 @@
-# Alex Júnior
-
-Contate-me no [LinkedIn](https://www.linkedin.com/in/alex-junior-7944323b/)
-
-<!-- GitHub Stats -->
-<div align="center">
-  <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=silvaAlex&show_icons=true" alt="silvaAlex's stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaAlex&layout=compact" alt="silvaAlex's stats" />
-  </p>
-</div>
-
-<!-- Technologies & Tools -->
-
-### 🔧 &nbsp; Tecnologias e Ferramentas...
+<h1 align="center">👋 Olá! Eu sou o Alex</h1>
 
 <p align="center">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/languages/csharp_dotnet.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/silvaAlex/silvaAlex/blob/master/assets/dev/tools/vs_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código.
 </p>
+
+--- 
+### 🚀 Minhas Stacks
+
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />        
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />      
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />      
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />       
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />     
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />        
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />       
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />       
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />      
+</code>
+<code>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />      
+</code>
+
+--- 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=silvaalex&show_icons=true&theme=transparent&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvaalex&layout=compact&langs_count=7&theme=transparent"
+  />
+</div>
+
+---
+
+> ### 💬 Vamos conversar? Me chama no [LinkedIn](www.linkedin.com/in/alexjr-silva) ou confira meus repositórios aqui no GitHub!
+
