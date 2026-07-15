@@ -55,6 +55,6 @@
 
 ## Onde me encontrar
 
-![Hotmail](https://img.shields.io/badge/-hotmail-00f?style=flat-square&labelColor=00f&logo=gmail&logoColor=white&link=mailto:silva_jralex@hotmail.com)
-![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white&link=https://www.linkedin.com/in/alexjr-silva)
+[![Hotmail](https://img.shields.io/badge/-hotmail-00f?style=flat-square&labelColor=00f&logo=gmail&logoColor=white)](mailto:silva_jralex@hotmail.com)
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/alexjr-silva)
 ![](https://komarev.com/ghpvc/?username=silvaAlex&color=006bed)
